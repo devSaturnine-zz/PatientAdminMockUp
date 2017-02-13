@@ -14,3 +14,20 @@ c:\VS Projects\FEH mockup\FEH mockup\obj\Debug\FEH mockup.csproj.GenerateResourc
 c:\VS Projects\FEH mockup\FEH mockup\obj\Debug\FEH mockup.exe
 c:\VS Projects\FEH mockup\FEH mockup\obj\Debug\FEH mockup.pdb
 C:\VS Projects\FEH mockup\FEH mockup\obj\Debug\FEH_mockup.Class.pnlLogin.resources
+C:\Github\PatientAdminMockUp\FEH mockup\bin\Debug\FEH mockup.exe.config
+C:\Github\PatientAdminMockUp\FEH mockup\obj\Debug\FEH mockup.exe
+C:\Github\PatientAdminMockUp\FEH mockup\obj\Debug\FEH mockup.pdb
+C:\Github\PatientAdminMockUp\FEH mockup\bin\Debug\FEH mockup.exe
+C:\Github\PatientAdminMockUp\FEH mockup\bin\Debug\FEH mockup.pdb
+C:\Github\PatientAdminMockUp\FEH mockup\bin\Debug\MetroFramework.Design.dll
+C:\Github\PatientAdminMockUp\FEH mockup\bin\Debug\MetroFramework.dll
+C:\Github\PatientAdminMockUp\FEH mockup\bin\Debug\MetroFramework.Fonts.dll
+C:\Github\PatientAdminMockUp\FEH mockup\bin\Debug\Transitions.dll
+C:\Github\PatientAdminMockUp\FEH mockup\obj\Debug\FEH mockup.csprojResolveAssemblyReference.cache
+C:\Github\PatientAdminMockUp\FEH mockup\obj\Debug\FEH_mockup.Class.HomeScreen.resources
+C:\Github\PatientAdminMockUp\FEH mockup\obj\Debug\FEH_mockup.Class.pnlLogin.resources
+C:\Github\PatientAdminMockUp\FEH mockup\obj\Debug\FEH_mockup.Class.pnlSlider.resources
+C:\Github\PatientAdminMockUp\FEH mockup\obj\Debug\FEH_mockup.Form1.resources
+C:\Github\PatientAdminMockUp\FEH mockup\obj\Debug\FEH_mockup.MainForm.resources
+C:\Github\PatientAdminMockUp\FEH mockup\obj\Debug\FEH_mockup.Properties.Resources.resources
+C:\Github\PatientAdminMockUp\FEH mockup\obj\Debug\FEH mockup.csproj.GenerateResource.Cache
