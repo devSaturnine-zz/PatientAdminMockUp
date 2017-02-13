@@ -1,0 +1,16 @@
+c:\VS Projects\FEH mockup\FEH mockup\bin\Debug\FEH mockup.exe.config
+c:\VS Projects\FEH mockup\FEH mockup\bin\Debug\FEH mockup.exe
+c:\VS Projects\FEH mockup\FEH mockup\bin\Debug\FEH mockup.pdb
+c:\VS Projects\FEH mockup\FEH mockup\bin\Debug\MetroFramework.Design.dll
+c:\VS Projects\FEH mockup\FEH mockup\bin\Debug\MetroFramework.dll
+c:\VS Projects\FEH mockup\FEH mockup\bin\Debug\MetroFramework.Fonts.dll
+c:\VS Projects\FEH mockup\FEH mockup\bin\Debug\Transitions.dll
+c:\VS Projects\FEH mockup\FEH mockup\obj\Debug\FEH mockup.csprojResolveAssemblyReference.cache
+c:\VS Projects\FEH mockup\FEH mockup\obj\Debug\FEH_mockup.Class.pnlSlider.resources
+c:\VS Projects\FEH mockup\FEH mockup\obj\Debug\FEH_mockup.Form1.resources
+c:\VS Projects\FEH mockup\FEH mockup\obj\Debug\FEH_mockup.MainForm.resources
+c:\VS Projects\FEH mockup\FEH mockup\obj\Debug\FEH_mockup.Properties.Resources.resources
+c:\VS Projects\FEH mockup\FEH mockup\obj\Debug\FEH mockup.csproj.GenerateResource.Cache
+c:\VS Projects\FEH mockup\FEH mockup\obj\Debug\FEH mockup.exe
+c:\VS Projects\FEH mockup\FEH mockup\obj\Debug\FEH mockup.pdb
+C:\VS Projects\FEH mockup\FEH mockup\obj\Debug\FEH_mockup.Class.pnlLogin.resources
