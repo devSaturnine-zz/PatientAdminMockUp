@@ -36,7 +36,7 @@ namespace FEH_mockup.Class
         }
         #endregion
 
-        private pnlSlider()
+        public pnlSlider()
         {
             InitializeComponent();
         }

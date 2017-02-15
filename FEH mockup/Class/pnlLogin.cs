@@ -73,7 +73,7 @@ namespace FEH_mockup.Class
 
         private void btnLogIn_Click(object sender, EventArgs e)
         {
-            HomeScreen form = new HomeScreen();
+            var form = new HomeScreen();
             form.Show();
         }
     }
