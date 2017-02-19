@@ -76,6 +76,10 @@ namespace FEH_mockup.Class
             }
         }
 
-        
+        private void metroTile1_Click(object sender, EventArgs e)
+        {
+            var form = new AddPatient();
+            form.Show();
+        }
     }
 }
